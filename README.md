@@ -1,5 +1,5 @@
 # AI-summer-camp
-인공지능 여름캠프 (Yangjae Innovation Hub) 수업 내용을 정리하는 공간입니다.
+인공지능 여름캠프 (Yangjae Innovation Hub) 수업 내용을 정리하는 공간입니다.<br>
 (수업 내용을 바탕으로 직접 재구성한 자료입니다.)
 
 ---
